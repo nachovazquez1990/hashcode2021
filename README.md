@@ -27,6 +27,3 @@ node index.js
 Nacho Vázquez
 
 _Otros dos krakens_
-
-
-# hashcode2021
