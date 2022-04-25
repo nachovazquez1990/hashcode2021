@@ -214,5 +214,6 @@ const simulacion1 = (result) => {
     // sumar el score de esos coches (numero de coches que han llegado x(puntosExtra+(duracion-tiempo))) 
   }
 }
+
 generarResultado();
 
